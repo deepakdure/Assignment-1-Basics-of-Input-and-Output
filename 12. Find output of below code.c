@@ -1,3 +1,4 @@
+//output is - "ineuron7"
 #include <stdio.h>
 int main()
 {
